@@ -1,0 +1,6 @@
+framework module Pods_BMuMQTTClientSwift {
+  umbrella header "Pods-BMuMQTTClientSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
